@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter of the surrender of Sterling-Castle, vvith 5000 arms, 40 peece of ordnance, provision for 500, men for above a yeare, 30 barrels of claret and strong-water, 26 barrels of powder, all the records of Scotland, with the chaire, cloath, and sword of state, and much furniture of the Kings and Parliament robes. VVith the articles at large for surrender of the same. Published by speciall order.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88000</idno><idno type="EEBO-CITATION">99862997</idno>
+  <idno type="VID">115177</idno>
+  <idno type="EEBO-PROQUEST">2240940007</idno>
+  
+            <idno type="STC">Wing L1582</idno>
+            <idno type="STC">Thomason E640_24</idno>
+            <idno type="STC">ESTC R202837</idno>
+            <idno type="PROQUEST">99862997</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99862997e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88000)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115177)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 98:E640[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter of the surrender of Sterling-Castle, vvith 5000 arms, 40 peece of ordnance, provision for 500, men for above a yeare, 30 barrels of claret and strong-water, 26 barrels of powder, all the records of Scotland, with the chaire, cloath, and sword of state, and much furniture of the Kings and Parliament robes. VVith the articles at large for surrender of the same. Published by speciall order.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Leach,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A variant has "peeces" in line 6, and "provisions" in line 7.</note>
+                  <note>Annotation on Thomason copy: "Aug. 28".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Stirling (Scotland) --  History --  17th century.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115177:1"/>
+            <p>A LETTER OF THE SVRRENDER OF STERLING-CASTLE, VVith 5000 Arms, 40 peece of Ordnance, provision for 500, men for above a yeare, 30 barrels of <hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>laret</hi> and Strong-Water, 26 barrels of Powder, all the Records of <hi>Scotland,</hi> with the Chaire, Cloath, and Sword of State, and much furniture of the Kings and Parli<g ref="char:EOLhyphen"/>ament Robes.</p>
+            <p>VVith the Articles at large for Surren<g ref="char:EOLhyphen"/>der of the same.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Published by speciall Order.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Francis Leach.</hi> 1651.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="2" facs="tcp:115177:2"/>
+            <head>A LETTER Of the surrender of <hi>STERLJNG-CASTLE.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>His day sevenight we perfected our Platforms for the reducing of <hi>Sterling,</hi> and 2. Morter pieces brought up from <hi>Leith</hi> for the reducing of <hi>Sterling</hi> Ca<g ref="char:EOLhyphen"/>stle, the Enemy shot through and through our bat<g ref="char:EOLhyphen"/>teries, but did not hurt any of our men, they plaid hard against our men that were in the steeple of the Town Kirk (which did much annoy them) they shot through the steeple, but in all their shot hurt but one man, 2. Morter pieces were drawn to the Platforms this evening. All things being in readinesse to go roundly to work with the Castle, the Lieut. Gen. sent a summons into the Castle, requiring the Governour to deliver the same to
+<pb n="3" facs="tcp:115177:2"/> the use of the Parliament of <hi>England,</hi> to which he returned a verball answer, That he would keepe the Castle as long as he could, the Lieut. Gen. also sent about exchange of prisoners for some of ours he had in the Castle, but it seemes he would ex<g ref="char:EOLhyphen"/>change none, in hopes to make terms by them.</p>
+            <p>Col. <hi>Pinchbanck</hi> an Englishman, and one of the Colonels that Col. <hi>Blake</hi> gave pass to come from <hi>Scilly</hi> into <hi>Scotland,</hi> kist the Kings hand, went as far as <hi>Glasco</hi> with him towards <hi>England,</hi> but is come backe hither, declaring much disaffection and dissatisfaction to the enemies designe, and sayes he will not meddle any more with them.</p>
+            <p>Wednesday the two Morter pieces were planted and <hi>Mr. Hean</hi> the Engineer which was sent from St. <hi>Iohnstons</hi> for that purpose, made two shots with each of them for triall, two of which fell and brake in the midst of the Castle.</p>
+            <p>Thursday the 14 both Guns and Morter pieces plaid hard against the Castle, we made two of their Guns unserviceable, they hurt us two Gun<g ref="char:EOLhyphen"/>ners with small shot.</p>
+            <p>In the afternoon whilst our Morter pieces were playing hard, they in the Castle beat a parley, which being harkned unto, they sent out a Drum<g ref="char:EOLhyphen"/>mer with a letter containing desire of a treaty, the
+<pb n="4" facs="tcp:115177:3"/> Lieut. Gen. sent in a letter, wherein he took no<g ref="char:EOLhyphen"/>tice of the Governors slighting his first summons, but proposed 3 Articles to him, which he would grant if he would render forthwith; hereupon a<g ref="char:EOLhyphen"/>bout half an hour after the Governor sent out Capt. <hi>Iames Cunningham</hi> and one Mr. <hi>Wright</hi> as Commis<g ref="char:EOLhyphen"/>sioners to Treat, but the Records of <hi>Scotland</hi> which the Governor desired might be conveyed to some other Garrison of theirs, being denied them, <hi>Mr. Wright</hi> said his commission was blown up, and would not Treat, so that by night the Articles in<g ref="char:EOLhyphen"/>closed were agreed and Hostages sent forth. The reason of their hasty surrender was from a mutiny of the Soldiers in the Castle, being a commanded party of theirs, and most Highlanders, and not accustomed to Granadoes were much affrighted, and beat the Drum without Order, threatning to throw over their Officers i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they should disturbe them, saying, they would fight for their King and Kingdom, but not for their countries Geer,</p>
+            <p>The next day the Governour with about 300 Officers and Souldiers marched forth according to Agreement; the Souldiers had the night be<g ref="char:EOLhyphen"/>fore broken open many of the Trunkes in the Castle, and went away with as much Geere as they could carry: There was in the Castle 40
+<pb n="5" facs="tcp:115177:3"/> peece of Ordnance, <hi>viz.</hi> 27 were fair brasse pee<g ref="char:EOLhyphen"/>ces, 2 great Iron Guns, and 11 Leather Guns, pro<g ref="char:EOLhyphen"/>vision of meat to serve 500 men above 12 moneths 40 or 50 barrels of beef, about 5000 arms (new muskets and pikes) 26 barrels of powder, 30 or 30 vessels of Claret Wine and Strong Waters, great store of match with other Ammunition, Lances, Swans, feathers, Darts, and other instruments of war in that nature: all the Records of <hi>Scotland,</hi> the Chair and cloth of State, the Sword and other rich furniture of the Kings the Earl of <hi>Marres</hi> co<g ref="char:EOLhyphen"/>ronet and stirops of gold, with his Parliament Robes, there was also store of goods of the coun<g ref="char:EOLhyphen"/>trey and Towns people in the castle, which they had liberty to carry away according to Articles▪ and came in great numbers for three or four days together, little or no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hing being imbeazled, but what had been taken away by their own men.</p>
+            <p>VVe had released a little before our entrance thirty two prisoners, among which Mr. <hi>Cornelius van Behmen</hi> Engineer, Lieut <hi>Iones▪</hi> and others taken at <hi>Newark.</hi>
+            </p>
+            <p>Thus hath God in lesse than a weeks space, nay lesse than a dayes space (for we did not play so long with our Guns and Morter peeces) given into our hands one of the strongest and most mag<g ref="char:EOLhyphen"/>nificent
+<pb n="6" facs="tcp:115177:4"/> Castles in <hi>Scotland,</hi> and the most (if not only) considerable passe into the Country, when we came before it, a quaere was made who should lead us into the strong Castle, it was an<g ref="char:EOLhyphen"/>swered, the Righteous shall possesse the gates of their enemies, and surely the mercy is not the lesse for being gained with so little losse, but the greater, and is a pledge of what he will do for those that are now like to be engaged in <hi>England;</hi> since my coming into the Castle (which is one of the most statel<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>est buildings I have seene in <hi>Scotland</hi>) I observed this motto over the Chappell doore, I. R. <hi>Nobis haec invicta miserunt Centum sex proavis</hi> 1617. it seems it had past the 107 uncon<g ref="char:EOLhyphen"/>quered but not the 108.</p>
+            <p>Colonell <hi>Okey</hi> is returned with his party who went into the West, he hath taken the Laird <hi>Os<g ref="char:EOLhyphen"/>boston,</hi> Mr. <hi>Alexander,</hi> and Mr. <hi>H<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nderson,</hi> and o<g ref="char:EOLhyphen"/>thers, who were sitting at <hi>Peisley</hi> for the raising of a Regiment to be under the command of Col. <hi>Cockram,</hi> which their King had sent out of <hi>England</hi> for that purpose, though he had before promised it to M. G. <hi>Van Ross,</hi> they were both in the Towne the day before, but got away with the Lord <hi>Blands</hi> troop into the holds.</p>
+            <p>We are now preparing for a march with our
+<pb n="7" facs="tcp:115177:4"/> little handfull of 2 Regiments of Horse and 2 Re<g ref="char:EOLhyphen"/>giments of Foot towards <hi>Dundee,</hi> we have left all our field pieces in this garison, where Colonell <hi>Rede</hi> with his Regiment is left, and marcht with three battering and one morter peece, not doubt<g ref="char:EOLhyphen"/>ing of the continuance of the good hand of God with us.</p>
+            <closer>
+               <dateline>
+                  <hi>Sterling</hi>
+                  <date>19 <hi>August,</hi> 1651.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <head>POSTSCRIPT.</head>
+               <p>When our convoy had brought those that marcht out of the castle of <hi>Sterling</hi> as far as St. <hi>Iohnstons</hi> they all went to their several homes ex<g ref="char:EOLhyphen"/>cept about 7 score.</p>
+            </postscript>
+         </div>
+         <div type="text">
+            <head>Articles agreed on between Col. <hi>Edward Grosve<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er,</hi> and Col. <hi>Rich Ashfield,</hi> commissioners on the behalfe of the Right Honorable <hi>L. G. Mo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke,</hi> and Capt. <hi>Iames Cony<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gham</hi> on the behalfe of the Honorable col. <hi>William Conyngham,</hi> Go<g ref="char:EOLhyphen"/>vernour of the castle of <hi>Sterling</hi> for the Renditi<g ref="char:EOLhyphen"/>on thereof.</head>
+            <p n="1">
+               <hi>1.</hi> THat the Governour and all Officers and Souldi<g ref="char:EOLhyphen"/>ers shall have liberty to march with their horses (not exceeding six) arms, beat of drum, lighted matches, and what baggage belongeth to them to any part of this
+<pb n="8" facs="tcp:115177:5"/> Kingdom, and to have a sufficient convey for five miles beyond any of the Garrisons or Guards belonging to the forces of the Parliament of <hi>England,</hi> and such of them as shall be desirous to go to their owne homes shall have liberty and passes for that purpose.</p>
+            <p n="2">
+               <hi>2.</hi> That all Noblemen, Gentlemen or Inhabitants of the towne of <hi>Sterling</hi> who have goods in the Castle shall have eight dayes liberty to transport their goods to such place as they shall please, provided that no bedding be re<g ref="char:EOLhyphen"/>moved out of the towne without order.</p>
+            <p n="3">
+               <hi>3.</hi> That the Castle of <hi>Sterling</hi> with all the Ordnance, arms, ammunition and other Provision of War therein be delivered unto L. G. <hi>Monke</hi> or whom he shall appoint without any spoile or imbezlement, by ten of the clock to mor<g ref="char:EOLhyphen"/>row morning.</p>
+            <p n="4">
+               <hi>4.</hi> That all prisoners which are now in the Castle of <hi>Sterling</hi> be forthwith released.</p>
+            <p n="5">5 <hi>That hostages he forthwith sent out for performance of these Articles.</hi>
+            </p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Ed. Grosvener;</hi>
+                     </item>
+                     <item>
+                        <hi>Ri. Ashfield:</hi>
+                     </item>
+                  </list>
+               </signed>
+               <dateline>
+                  <date>
+                     <hi>4 August 1651.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>I do hereby ratifie and confirm these Articles.</hi>
+               </p>
+               <closer>
+                  <signed>George Monke.</signed>
+               </closer>
+            </postscript>
+            <trailer>FJNJS.</trailer>
+            <pb n="1" facs="tcp:115177:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
